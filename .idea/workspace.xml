@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69e5b677-544b-48d9-89dc-f78916eb2d69" name="Changes" comment="day01_线性回归LinearRegression" />
+    <list default="true" id="69e5b677-544b-48d9-89dc-f78916eb2d69" name="Changes" comment="day01_线性回归LinearRegression">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/李宗效-1019-linear.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/homework/李宗效-1019-linear.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,29 +70,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.00_linear伪代码.executor": "Run",
-    "Python.01_基于表达式解析的线性回归代码实现(PPT上案例).executor": "Run",
-    "Python.02_knn电影数据调包.executor": "Run",
-    "Python.02_基于表达式解析的线性回归代码实现(PPT上案例2).executor": "Run",
-    "Python.03_鸢尾花分类.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Projects/DeepBule/DeepBlueML",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.00_linear伪代码.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_基于表达式解析的线性回归代码实现(PPT上案例).executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_knn电影数据调包.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_基于表达式解析的线性回归代码实现(PPT上案例2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_鸢尾花分类.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projects/DeepBule/DeepBlueML&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\DeepBule\DeepBlueML\笔记" />
       <recent name="G:\00000000000AAA机器学习资料\code\02_线性回归" />
       <recent name="G:\00000000000AAA机器学习资料\code\datas" />
     </key>
@@ -226,7 +230,12 @@
       <workItem from="1761126313667" duration="57000" />
       <workItem from="1761126380122" duration="14586000" />
       <workItem from="1761148119346" duration="174000" />
-      <workItem from="1761148316938" duration="373000" />
+      <workItem from="1761148316938" duration="776000" />
+      <workItem from="1761190195041" duration="3965000" />
+      <workItem from="1761218073990" duration="495000" />
+      <workItem from="1761315290470" duration="277000" />
+      <workItem from="1761318332547" duration="28000" />
+      <workItem from="1761318398239" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="day01_线性回归LinearRegression">
       <option name="closed" value="true" />
@@ -252,7 +261,31 @@
       <option name="project" value="LOCAL" />
       <updated>1761148185599</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="day01_线性回归LinearRegression">
+      <option name="closed" value="true" />
+      <created>1761148875318</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1761148875318</updated>
+    </task>
+    <task id="LOCAL-00005" summary="day01_线性回归LinearRegression">
+      <option name="closed" value="true" />
+      <created>1761148961907</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761148961907</updated>
+    </task>
+    <task id="LOCAL-00006" summary="笔记">
+      <option name="closed" value="true" />
+      <created>1761315394666</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761315394666</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,7 +307,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="day01_线性回归LinearRegression" />
-    <option name="LAST_COMMIT_MESSAGE" value="day01_线性回归LinearRegression" />
+    <MESSAGE value="笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="笔记" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/code$00_linear.coverage" NAME="00_linear伪代码 Coverage Results" MODIFIED="1727600735738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_线性回归" />
