@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69e5b677-544b-48d9-89dc-f78916eb2d69" name="Changes" comment="day03_">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="69e5b677-544b-48d9-89dc-f78916eb2d69" name="Changes" comment="day04_knn">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_线性回归/03_波士顿房屋价格预测.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/02_线性回归/03_波士顿房屋价格预测.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_线性回归/04_波士顿房屋价格多项式扩展.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/02_线性回归/04_波士顿房屋价格多项式扩展.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_线性回归/05_poly.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/02_线性回归/05_poly.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_梯度下降/01_梯度下降法：求解最优解最优解.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03_梯度下降/01_梯度下降法：求解最优解最优解.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_knn/01_knn电影数据实现.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01_knn/01_knn电影数据实现.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_knn/knn.m" beforeDir="false" afterPath="$PROJECT_DIR$/01_knn/knn.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_logistic&amp;softmax/01_逻辑回归乳腺癌分类预测.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/04_logistic&amp;softmax/01_逻辑回归乳腺癌分类预测.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,28 +72,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.00_linear伪代码.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_基于表达式解析的线性回归代码实现(PPT上案例).executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_knn电影数据调包.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_基于表达式解析的线性回归代码实现(PPT上案例2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_鸢尾花分类.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Projects/DeepBule/DeepBlueML&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.00_linear伪代码.executor": "Run",
+    "Python.01_基于表达式解析的线性回归代码实现(PPT上案例).executor": "Run",
+    "Python.02_knn电影数据调包.executor": "Run",
+    "Python.02_基于表达式解析的线性回归代码实现(PPT上案例2).executor": "Run",
+    "Python.03_鸢尾花分类.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Projects/DeepBule/DeepBlueML",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Projects\DeepBule\DeepBlueML\笔记" />
@@ -103,7 +101,7 @@
       <recent name="G:\00000000000AAA机器学习资料\code\datas" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.03_鸢尾花分类">
     <configuration name="01_基于表达式解析的线性回归代码实现(PPT上案例)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code" />
       <option name="ENV_FILES" value="" />
@@ -221,10 +219,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03_鸢尾花分类" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.02_基于表达式解析的线性回归代码实现(PPT上案例2)" />
         <item itemvalue="Python.01_基于表达式解析的线性回归代码实现(PPT上案例)" />
-        <item itemvalue="Python.03_鸢尾花分类" />
         <item itemvalue="Python.02_knn电影数据调包" />
       </list>
     </recent_temporary>
@@ -276,7 +274,21 @@
       <workItem from="1761623671120" duration="93000" />
       <workItem from="1761623778515" duration="3133000" />
       <workItem from="1761708767475" duration="1263000" />
-      <workItem from="1761710984872" duration="2858000" />
+      <workItem from="1761710984872" duration="4983000" />
+      <workItem from="1761744080559" duration="302000" />
+      <workItem from="1761796084654" duration="14000" />
+      <workItem from="1761875846035" duration="4556000" />
+      <workItem from="1761962486688" duration="101000" />
+      <workItem from="1761965109071" duration="6000" />
+      <workItem from="1761996605441" duration="3533000" />
+      <workItem from="1762088820531" duration="3179000" />
+      <workItem from="1762139289919" duration="6135000" />
+      <workItem from="1762172569560" duration="99000" />
+      <workItem from="1762172680295" duration="42000" />
+      <workItem from="1762172744001" duration="86000" />
+      <workItem from="1762328428464" duration="60000" />
+      <workItem from="1762501673299" duration="553000" />
+      <workItem from="1762510251319" duration="5911000" />
     </task>
     <task id="LOCAL-00001" summary="day01_线性回归LinearRegression">
       <option name="closed" value="true" />
@@ -342,7 +354,23 @@
       <option name="project" value="LOCAL" />
       <updated>1761581744334</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="day03_多项式扩展_梯度下降">
+      <option name="closed" value="true" />
+      <created>1761714741994</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1761714741994</updated>
+    </task>
+    <task id="LOCAL-00010" summary="day03_SGD_BGD_MBGD">
+      <option name="closed" value="true" />
+      <created>1762172599767</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1762172599767</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -367,7 +395,9 @@
     <MESSAGE value="笔记" />
     <MESSAGE value="day01_作业" />
     <MESSAGE value="day02_正则_LASSO_Ridge" />
-    <option name="LAST_COMMIT_MESSAGE" value="day02_正则_LASSO_Ridge" />
+    <MESSAGE value="day03_多项式扩展_梯度下降" />
+    <MESSAGE value="day03_SGD_BGD_MBGD" />
+    <option name="LAST_COMMIT_MESSAGE" value="day03_SGD_BGD_MBGD" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DeepBlueML$test.coverage" NAME="test Coverage Results" MODIFIED="1761618740580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
@@ -375,6 +405,7 @@
     <SUITE FILE_PATH="coverage/code$02_knn.coverage" NAME="02_knn电影数据调包 Coverage Results" MODIFIED="1727595367003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_knn" />
     <SUITE FILE_PATH="coverage/DeepBlueML$00_linear.coverage" NAME="00_linear伪代码 Coverage Results" MODIFIED="1760881287014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_线性回归" />
     <SUITE FILE_PATH="coverage/code$03_.coverage" NAME="03_鸢尾花分类 Coverage Results" MODIFIED="1727595705464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_knn" />
+    <SUITE FILE_PATH="coverage/DeepBlueML$03_.coverage" NAME="03_鸢尾花分类 Coverage Results" MODIFIED="1762515208493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_knn" />
     <SUITE FILE_PATH="coverage/DeepBlueML$01__PPT_.coverage" NAME="01_基于表达式解析的线性回归代码实现(PPT上案例) Coverage Results" MODIFIED="1760881292476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_线性回归" />
     <SUITE FILE_PATH="coverage/code$01__PPT_.coverage" NAME="01_基于表达式解析的线性回归代码实现(PPT上案例) Coverage Results" MODIFIED="1727600797733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_线性回归" />
     <SUITE FILE_PATH="coverage/DeepBlueML$02__PPT2_.coverage" NAME="02_基于表达式解析的线性回归代码实现(PPT上案例2) Coverage Results" MODIFIED="1761136869992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_线性回归" />
