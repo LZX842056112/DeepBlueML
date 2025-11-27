@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69e5b677-544b-48d9-89dc-f78916eb2d69" name="Changes" comment="day05_集成学习">
-      <change afterPath="$PROJECT_DIR$/笔记/02.K近邻算法(KNN).xmind" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_集成学习/02_adaboost.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/07_集成学习/02_adaboost.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_集成学习/03_GBDT.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/07_集成学习/03_GBDT.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_svm/01_感知机模型实现.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/08_svm/01_感知机模型实现.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/笔记/07.决策树.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/07.决策树.xmind" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -303,7 +306,16 @@
       <workItem from="1763203986081" duration="3593000" />
       <workItem from="1763303344073" duration="3813000" />
       <workItem from="1763355199529" duration="2939000" />
-      <workItem from="1763376134878" duration="2436000" />
+      <workItem from="1763376134878" duration="4318000" />
+      <workItem from="1763443631117" duration="607000" />
+      <workItem from="1763455946652" duration="4000" />
+      <workItem from="1763474817723" duration="2753000" />
+      <workItem from="1763528427671" duration="7581000" />
+      <workItem from="1763617003936" duration="1586000" />
+      <workItem from="1763963732615" duration="4000" />
+      <workItem from="1763986655807" duration="619000" />
+      <workItem from="1764070730391" duration="2344000" />
+      <workItem from="1764246011042" duration="2613000" />
     </task>
     <task id="LOCAL-00001" summary="day01_线性回归LinearRegression">
       <option name="closed" value="true" />
@@ -401,7 +413,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763204502423</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="ml">
+      <option name="closed" value="true" />
+      <created>1763382450784</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1763382450784</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -430,7 +450,8 @@
     <MESSAGE value="day03_SGD_BGD_MBGD" />
     <MESSAGE value="day04_knn" />
     <MESSAGE value="day04_特征工程_决策树" />
-    <option name="LAST_COMMIT_MESSAGE" value="day04_特征工程_决策树" />
+    <MESSAGE value="ml" />
+    <option name="LAST_COMMIT_MESSAGE" value="ml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
