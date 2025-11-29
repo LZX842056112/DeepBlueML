@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69e5b677-544b-48d9-89dc-f78916eb2d69" name="Changes" comment="day05_集成学习">
+    <list default="true" id="69e5b677-544b-48d9-89dc-f78916eb2d69" name="Changes" comment="day06_svm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_集成学习/02_adaboost.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/07_集成学习/02_adaboost.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_集成学习/03_GBDT.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/07_集成学习/03_GBDT.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_svm/01_感知机模型实现.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/08_svm/01_感知机模型实现.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记/07.决策树.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/07.决策树.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_svm/02_svm鸢尾花分类.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/08_svm/02_svm鸢尾花分类.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/笔记/09_支持向量机SVM..xmind" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/09_支持向量机SVM..xmind" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -316,6 +314,10 @@
       <workItem from="1763986655807" duration="619000" />
       <workItem from="1764070730391" duration="2344000" />
       <workItem from="1764246011042" duration="2613000" />
+      <workItem from="1764258650890" duration="117000" />
+      <workItem from="1764416556161" duration="1999000" />
+      <workItem from="1764426834122" duration="270000" />
+      <workItem from="1764428879585" duration="29000" />
     </task>
     <task id="LOCAL-00001" summary="day01_线性回归LinearRegression">
       <option name="closed" value="true" />
@@ -421,7 +423,23 @@
       <option name="project" value="LOCAL" />
       <updated>1763382450784</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="day05_集成学习">
+      <option name="closed" value="true" />
+      <created>1764258710776</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1764258710776</updated>
+    </task>
+    <task id="LOCAL-00015" summary="day06_svm">
+      <option name="closed" value="true" />
+      <created>1764258727679</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1764258727679</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -451,7 +469,9 @@
     <MESSAGE value="day04_knn" />
     <MESSAGE value="day04_特征工程_决策树" />
     <MESSAGE value="ml" />
-    <option name="LAST_COMMIT_MESSAGE" value="ml" />
+    <MESSAGE value="day05_集成学习" />
+    <MESSAGE value="day06_svm" />
+    <option name="LAST_COMMIT_MESSAGE" value="day06_svm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
