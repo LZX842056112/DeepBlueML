@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69e5b677-544b-48d9-89dc-f78916eb2d69" name="Changes" comment="day06_svm">
+    <list default="true" id="69e5b677-544b-48d9-89dc-f78916eb2d69" name="Changes" comment="day08_KMeans">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09_朴素贝叶斯/朴素贝叶斯鸢尾花分类.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/09_朴素贝叶斯/朴素贝叶斯鸢尾花分类.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_kmeans/01_kmeans_ppt.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/10_kmeans/01_kmeans_ppt.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_kmeans/03_kmeans伪代码.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/10_kmeans/03_kmeans伪代码.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_电信用户流失预测/data_procession.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/11_电信用户流失预测/data_procession.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -320,6 +322,11 @@
       <workItem from="1764468037186" duration="523000" />
       <workItem from="1764490737747" duration="2401000" />
       <workItem from="1764521050339" duration="2000" />
+      <workItem from="1765199980266" duration="1407000" />
+      <workItem from="1765245477443" duration="96000" />
+      <workItem from="1765347023515" duration="4416000" />
+      <workItem from="1765372582498" duration="6682000" />
+      <workItem from="1765426814936" duration="3000" />
     </task>
     <task id="LOCAL-00001" summary="day01_线性回归LinearRegression">
       <option name="closed" value="true" />
@@ -449,7 +456,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764433926377</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="day07_SMO_朴素贝叶斯">
+      <option name="closed" value="true" />
+      <created>1765200028256</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1765200028256</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -481,7 +496,8 @@
     <MESSAGE value="ml" />
     <MESSAGE value="day05_集成学习" />
     <MESSAGE value="day06_svm" />
-    <option name="LAST_COMMIT_MESSAGE" value="day06_svm" />
+    <MESSAGE value="day07_SMO_朴素贝叶斯" />
+    <option name="LAST_COMMIT_MESSAGE" value="day07_SMO_朴素贝叶斯" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
